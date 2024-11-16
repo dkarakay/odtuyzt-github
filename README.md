@@ -1,3 +1,5 @@
 # ODTU YZT Git & GitHub 101 Workshop
 
-Test
+# Git 
+- Git nedir?
+- Komutlari
